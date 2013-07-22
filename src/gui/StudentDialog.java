@@ -107,7 +107,7 @@ public class StudentDialog extends javax.swing.JDialog {
      String firstName = txtFirstName.getText();
      String surName = txtSurname.getText();
      String studentID = txtStudentID.getText();
-     
+       
     }//GEN-LAST:event_btnSaveActionPerformed
  
     /**
@@ -161,4 +161,6 @@ public class StudentDialog extends javax.swing.JDialog {
     private javax.swing.JTextField txtStudentID;
     private javax.swing.JTextField txtSurname;
     // End of variables declaration//GEN-END:variables
+
+   
 }
